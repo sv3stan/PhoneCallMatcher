@@ -14,8 +14,9 @@ PhoneCallMatcher - это проект на Delphi, который позвол�
    ```bash
    git clone https://github.com/ваше_имя_пользователя/PhoneCallMatcher.git
    cd PhoneCallMatcher
+   ```
+   Алиас BDE - ATC
+   путь C:\ATC
    
-## Алиас BDE
 
-Алиас BDE - ATC
-путь C:\ATC
+
